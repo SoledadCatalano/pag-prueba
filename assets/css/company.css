@@ -1,0 +1,23 @@
+.company{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(/assets/image/fondo.jpg);
+    height: 600 px;
+}
+.company h2{
+    margin: 50px;
+    width: 80%;
+    font-size: 30px;   
+}
+.company p, h5{
+    width: 80%;
+    line-height : 35px;
+    text-align: start;
+}
+.company h5{
+    color: #1783db;
+    font-weight: bold;
+}
